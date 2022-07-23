@@ -1,0 +1,1653 @@
+{
+  "devices": [
+    "wide-angle-camera"
+  ],
+  "formats": [
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": true,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 3120,
+      "photoWidth": 4160,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 3120,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 4160
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 2340,
+      "photoWidth": 4160,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 2340,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 4160
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1970,
+      "photoWidth": 4160,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1970,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 4160
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 3000,
+      "photoWidth": 4000,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 3000,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 4000
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 2160,
+      "photoWidth": 3840,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 2160,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 3840
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 2448,
+      "photoWidth": 3264,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 2448,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 3264
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1632,
+      "photoWidth": 3264,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1632,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 3264
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1552,
+      "photoWidth": 3264,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1552,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 3264
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 2400,
+      "photoWidth": 3200,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 2400,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 3200
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1944,
+      "photoWidth": 2592,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1944,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2592
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1940,
+      "photoWidth": 2592,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1940,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2592
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1296,
+      "photoWidth": 2592,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1296,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2592
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1232,
+      "photoWidth": 2592,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1232,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2592
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1458,
+      "photoWidth": 2592,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1458,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2592
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1248,
+      "photoWidth": 2592,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1248,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2592
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1920,
+      "photoWidth": 2560,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1920,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2560
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1512,
+      "photoWidth": 2688,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1512,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2688
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1728,
+      "photoWidth": 2304,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1728,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2304
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1296,
+      "photoWidth": 2304,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1296,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2304
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1536,
+      "photoWidth": 2048,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1536,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 2048
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1080,
+      "photoWidth": 1920,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1080,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1920
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1380,
+      "photoWidth": 1840,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1380,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1840
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1200,
+      "photoWidth": 1600,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1200,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1600
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1080,
+      "photoWidth": 1440,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1080,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1440
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 960,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 960,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 768,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 768,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 1520,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1520
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 768,
+      "photoWidth": 1024,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 768,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1024
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 600,
+      "photoWidth": 800,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 600,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 800
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 800,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 800
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 720,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 720
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 640,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 640
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 288,
+      "photoWidth": 352,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 288,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 352
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 240,
+      "photoWidth": 320,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 240,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 320
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1080,
+      "photoWidth": 1440,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1080,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1440
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 960,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 960,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 1520,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1520
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 960,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 960
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 540,
+      "photoWidth": 1140,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 540,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1140
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 720,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 720
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 640,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 640
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 288,
+      "photoWidth": 352,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 288,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 352
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 240,
+      "photoWidth": 320,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 240,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 320
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 144,
+      "photoWidth": 176,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 144,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 176
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1080,
+      "photoWidth": 1440,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1080,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1440
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 960,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 960,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 1520,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1520
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 960,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 960
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 540,
+      "photoWidth": 1140,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 540,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1140
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 720,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 720
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 640,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 640
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 288,
+      "photoWidth": 352,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 288,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 352
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 240,
+      "photoWidth": 320,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 240,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 320
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 144,
+      "photoWidth": 176,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 144,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 176
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 1080,
+      "photoWidth": 1440,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 1080,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1440
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 960,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 960,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 1520,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1520
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 1280,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1280
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 720,
+      "photoWidth": 960,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 720,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 960
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 540,
+      "photoWidth": 1140,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 540,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 1140
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 720,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 720
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 480,
+      "photoWidth": 640,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 480,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 640
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 288,
+      "photoWidth": 352,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 288,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 352
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 240,
+      "photoWidth": 320,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 240,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 320
+    },
+    {
+      "autoFocusSystem": "none",
+      "colorSpaces": [
+        Array
+      ],
+      "fieldOfView": 67.79999573953663,
+      "frameRateRanges": [
+        Array
+      ],
+      "isHighestPhotoQualitySupported": false,
+      "maxISO": null,
+      "maxZoom": 4,
+      "minISO": null,
+      "photoHeight": 144,
+      "photoWidth": 176,
+      "pixelFormat": "420v",
+      "supportsPhotoHDR": false,
+      "supportsVideoHDR": false,
+      "videoHeight": 144,
+      "videoStabilizationModes": [
+        Array
+      ],
+      "videoWidth": 176
+    }
+  ],
+  "hasFlash": true,
+  "hasTorch": true,
+  "id": "0",
+  "isMultiCam": false,
+  "maxZoom": 4,
+  "minZoom": 1,
+  "name": "back (0)",
+  "neutralZoom": 1,
+  "position": "back",
+  "supportsDepthCapture": false,
+  "supportsFocus": true,
+  "supportsLowLightBoost": false,
+  "supportsParallelVideoProcessing": false,
+  "supportsRawCapture": false
+}
